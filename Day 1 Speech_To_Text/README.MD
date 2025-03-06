@@ -11,22 +11,22 @@ A simple web application that converts spoken words into text using HTML, CSS, a
 
 ## 📦Installation 
 
-### Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/speed-to-text.git
 ```
 
-### Navigate to the project folder
+### 2. Navigate to the project folder
 
 ```bash
 cd index.html
 ```
 
-### Open index.html in your browser
+### 3. Open index.html in your browser
 
 
 ## 🎥Result
 
-<img src="https://github.com/user-attachments/assets/c7a7847b-3424-4abf-be24-c48f5a4f2325" width="800">
+<img src="" width="800">
 
