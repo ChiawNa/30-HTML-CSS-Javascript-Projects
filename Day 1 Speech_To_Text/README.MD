@@ -1,38 +1,32 @@
-## 🖥️Running YOLOv8 on Windows
+## 🖥️Speed to Text
 
-This repository demonstrates how to run object detection using YOLOv8 on a Windows machine.
+A simple web application that converts spoken words into text using HTML, CSS, and JavaScript. The application utilizes the Web Speech API to recognize speech and display the corresponding text in real time.
 
-## 📂Folder Contents
+## 📂How to Use
 
-- **🐍prediction.py** – Python script to perform object detection on an image.
-- **🖼️image1.jpg** – Sample image used for object detection.
-- **🎬demo.mp4** – Demonstration video of the detection process.
+1. Open the `index.html` file in a browser that supports the Web Speech API (Chrome recommended).
+2. Click the "Start" button to begin speech recognition.
+3. Speak into the microphone; your words will appear as text.
+4. Click the "Stop" button to end speech recognition.
 
-## ⚙️Requirements
+## 📦Installation 
 
-Ensure you have the following installed:
-
-- 🐍Python 3.8 or later
-- 📦ultralytics library (for YOLOv8)
-
-## 📦Installation and Running the Prediction
+# Clone the repository
 
 ```bash
-pip install ultralytics
+git clone https://github.com/yourusername/speed-to-text.git
 ```
+
+# Navigate to the project folder
 
 ```bash
-python prediction.py
+cd index.html
 ```
 
-## 🎥Demo Video
-Watch the full demo video on YouTube: https://www.youtube.com/watch?v=2I3x0oUviAg
+# Open index.html in your browser
+
+
+## 🎥Result
 
 <img src="https://github.com/user-attachments/assets/c7a7847b-3424-4abf-be24-c48f5a4f2325" width="800">
 
-<img src="https://github.com/user-attachments/assets/7b8394ce-7001-4c21-9d20-083c2d0c249b" width="800">
-
-
-## 📚 References
-
-For additional information, visit: https://docs.ultralytics.com/
