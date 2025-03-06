@@ -24,4 +24,4 @@ cd Day 1 Speech_To_Text
 
 
 ## 🚀Result
-<img src="https://github.com/user-attachments/assets/a6c410cd-81e9-4eef-aa0a-d94c3f9ffd5e" width="700">
+<img src="https://github.com/user-attachments/assets/a6c410cd-81e9-4eef-aa0a-d94c3f9ffd5e" width="600" height="300">
