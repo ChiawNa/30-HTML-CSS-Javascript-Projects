@@ -14,13 +14,13 @@ A simple web application that converts spoken words into text using HTML, CSS, a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/speed-to-text.git
+git clone https://github.com/ChiawNa/30-HTML-CSS-Javascript-Projects.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd index.html
+cd Day 1 Speech_To_Text
 ```
 
 ### 3. Open index.html in your browser
