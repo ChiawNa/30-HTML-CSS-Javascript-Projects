@@ -1,6 +1,6 @@
 ## 🖥️Speed to Text
 
-A simple web application that converts spoken words into text using HTML, CSS, and JavaScript. The application utilizes the Web Speech API to recognize speech and display the corresponding text in real time.
+A simple web application that converts spoken words into text in real time using HTML, CSS, and JavaScript. 
 
 ## 📂How to Use
 
