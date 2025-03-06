@@ -25,8 +25,3 @@ cd index.html
 
 ### 3. Open index.html in your browser
 
-
-## 🎥Result
-
-<img src="" width="800">
-
